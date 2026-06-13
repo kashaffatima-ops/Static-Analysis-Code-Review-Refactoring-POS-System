@@ -134,5 +134,5 @@ Each file was evaluated across the following quality dimensions:
 ---
 
 ## Author
-**[Your Name]**
+**Kashaf Fatima**
 Software Quality Assurance (SQA) Portfolio Project

@@ -1,4 +1,4 @@
-# POS System — Comprehensive Code Review & Refactoring Report
+# POS System Comprehensive Code Review & Refactoring Report
 
 ## Overview
 This repository contains a Software Quality Assurance (SQA) project focused on the

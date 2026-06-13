@@ -9,6 +9,8 @@ aligned with industry best practices. Where significant issues were identified,
 hands-on refactoring was applied with documented before-and-after comparisons
 and impact analyses.
 
+Repository link of project code: https://github.com/kashaffatima-ops/junit-testing-pos-system.git
+
 ---
 
 ## Objectives
